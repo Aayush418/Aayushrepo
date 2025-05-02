@@ -1,0 +1,15 @@
+.container{
+    display:block;
+    color: yellow;
+    padding: 10px;
+    background-color: green;
+}
+
+.container.cl{
+    color:blue;
+    font-size: 40px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
